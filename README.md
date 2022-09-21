@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mian hussain asad
-- 👀 I’m interested in android native and flutter development with nodejs background for server side with any required database
-- 🌱 I’m currently learning to develop react native as well
+- 👀 I’m interested in android native and flutter development with nodejs or javaDropwizard background for server side with any required database such as noe4j mysql or mongodb
+- 🌱 I’m currently learning game development as well
 - 📫 How to reach me: mianhussainasad@gmail.com
 
 <!---
